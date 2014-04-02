@@ -6,3 +6,7 @@ int main (){
 	printf ("MULTIPLICACION: %i \n", multiplicacion(op1, op2));
 	return 0;
 }
+
+int suma (int op1, int op2){
+	return op1+op2;
+}
